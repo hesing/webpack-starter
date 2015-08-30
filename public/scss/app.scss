@@ -1,0 +1,19 @@
+body{
+	padding-top: 50px;
+}
+
+h1{
+	padding: 10px;
+	background: linear-gradient(to bottom, red, pink);
+	span{
+		float: right;
+		background: #ff0;
+		padding: 4px 2px;
+	}
+}
+
+.logo{
+	background: url(../images/logo.png) no-repeat;
+	width: 60px;
+	height: 50px;
+}
